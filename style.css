@@ -1,0 +1,91 @@
+*{
+  border: 1px solid red;
+}
+
+body{
+  width: 100vw;
+  height: 100vw;
+}
+
+header{
+  margin-left: 10vw;
+  margin-right: 10vw;
+  width: 80vw;
+  height: 10vw;
+  border-bottom: 1px solid black;
+}
+header input{
+  font-weight: 100;
+  margin-top: 5vw;
+  font-size: 24pt;
+}
+
+.first_row{
+  display: flex;
+  flex-direction: row;
+  width: 80vw;
+  height: 22vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.second_row{
+  display: flex;
+  flex-direction: row;
+  width: 80vw;
+  height: 22vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+#one{
+
+  width: 18vw;
+  height: 18vw;
+  margin-right: 2vw;
+  margin-left: .5vw;
+  margin-top: 2vw;
+}
+#two{
+  width: 18vw;
+  height: 18vw;
+  margin-right: 2vw;
+  margin-top: 2vw;
+}
+#three{
+  width: 18vw;
+  height: 18vw;
+  margin-right: 2vw;
+  margin-top: 2vw;
+}
+#four{
+  width: 18vw;
+  height: 18vw;
+  margin-top: 2vw;
+
+}
+#five{
+
+  width: 18vw;
+  height: 18vw;
+  margin-right: 2vw;
+  margin-left: .5vw;
+  margin-top: 2vw;
+}
+#six{
+  width: 18vw;
+  height: 18vw;
+  margin-right: 2vw;
+  margin-top: 2vw;
+}
+#seven{
+  width: 18vw;
+  height: 18vw;
+  margin-right: 2vw;
+  margin-top: 2vw;
+}
+#eight{
+  width: 18vw;
+  height: 18vw;
+  margin-top: 2vw;
+
+}
