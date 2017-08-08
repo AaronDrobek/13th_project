@@ -11,9 +11,21 @@ body{
   width: 100vw;
   height: 60vw;
 }
-a{
-  text-align: right;
+.el1{
+width: 20%;
+
 }
+#container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.el1 h1{
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 15pt;
+}
+
 img{
   margin-left: 3.5vw;
   height: 10vw;
