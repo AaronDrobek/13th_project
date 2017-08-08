@@ -1,11 +1,31 @@
-*{
+/**{
   border: 1px solid red;
-}
+}*/
 
 body{
+  background-color: white;
+  background-image:
+   linear-gradient(
+     lightgrey, #f06d06
+   );
   width: 100vw;
-  height: 100vw;
+  height: 60vw;
 }
+a{
+  text-align: right;
+}
+img{
+  margin-left: 3.5vw;
+  height: 10vw;
+  width: 10vw;
+}
+h1{
+  text-align: center;
+  color: purple;
+  align-self: stretch;
+  font-size: 19pt;
+}
+
 
 header{
   margin-left: 10vw;
@@ -15,6 +35,8 @@ header{
   border-bottom: 1px solid black;
 }
 header input{
+  background-color: #e0d7d7;
+
   font-weight: 100;
   margin-top: 5vw;
   font-size: 24pt;
@@ -38,7 +60,7 @@ header input{
   margin-right: 10vw;
 }
 #one{
-
+  border: .5px solid grey;
   width: 18vw;
   height: 18vw;
   margin-right: 2vw;
@@ -46,25 +68,28 @@ header input{
   margin-top: 2vw;
 }
 #two{
+  border: .5px solid grey;
   width: 18vw;
   height: 18vw;
   margin-right: 2vw;
   margin-top: 2vw;
 }
 #three{
+  border: .5px solid grey;
   width: 18vw;
   height: 18vw;
   margin-right: 2vw;
   margin-top: 2vw;
 }
 #four{
+  border: .5px solid grey;
   width: 18vw;
   height: 18vw;
   margin-top: 2vw;
 
 }
 #five{
-
+  border: .5px solid grey;
   width: 18vw;
   height: 18vw;
   margin-right: 2vw;
@@ -72,18 +97,21 @@ header input{
   margin-top: 2vw;
 }
 #six{
+  border: .5px solid grey;
   width: 18vw;
   height: 18vw;
   margin-right: 2vw;
   margin-top: 2vw;
 }
 #seven{
+  border: .5px solid grey;
   width: 18vw;
   height: 18vw;
   margin-right: 2vw;
   margin-top: 2vw;
 }
 #eight{
+  border: .5px solid grey;
   width: 18vw;
   height: 18vw;
   margin-top: 2vw;
